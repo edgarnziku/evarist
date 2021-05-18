@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
     <head>
         <title>
@@ -6,6 +5,6 @@
         </title>
     </head>
     <body>
-        <a href="personalwebsite.html">edgar's website</a>
+        <a href="personalwebsite.html">About Edgar</a>
     </body>
 </html>
